@@ -1,10 +1,3 @@
-import os.path
-import os
-
-
-def acounting(file: str) -> int:
-    return sum(1 for _ in open('1.txt', 'rt', encoding='utf-8'))
-
 
 # 1 Задача
 def my_cook_book():
